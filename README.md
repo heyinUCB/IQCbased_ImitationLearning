@@ -12,3 +12,5 @@ All the code is written in Python3.
 ### Prerequisites
 There are several packages required:
 * [MOSEK](https://www.mosek.com/): Commercial semidefinite programming solver
+* [CVX](http://cvxr.com/cvx/): MATLAB Software for Convex Programming
+* [Tensorflow](https://www.tensorflow.org/): Open source machine learning platform
