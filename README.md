@@ -23,4 +23,4 @@ To plot the computed ROA, two more packages are required:
 * Go to each folder, run **NN_policy.py** to start the safe imitation learning process. The computation results are stored in the folder **data**. Run **result_analysis.m** to visualize the results.
 
 ## Learned Neural Network Controller vs. Explicit MPC controller, and their associated ROAs
-![pendulum](pendulum_explicit_MPC/pendulum_result.pdf)
+![pendulum](pendulum_explicit_MPC/pendulum_result.jpg)
