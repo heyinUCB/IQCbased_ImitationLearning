@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/heyin/Dropbox/PhD projects/Neural Network analysis and synthesis/IEEE L-CSS/pendulum explicit MPC/data/NN_policy_26-01-2021_17-17-56/3/model.ckpt"
+all_model_checkpoint_paths: "/Users/heyin/Dropbox/PhD projects/Neural Network analysis and synthesis/IEEE L-CSS/pendulum explicit MPC/data/NN_policy_26-01-2021_17-17-56/3/model.ckpt"
