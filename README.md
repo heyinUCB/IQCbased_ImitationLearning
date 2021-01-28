@@ -18,3 +18,6 @@ There are several packages required:
 To plot the computed ROA, two more packages are required:
 * [SOSOPT](https://dept.aem.umn.edu/~AerospaceControl/): General SOS optimization utility
 * [Multipoly](https://dept.aem.umn.edu/~AerospaceControl/): Package used to represent multivariate polynomials
+
+### Way of Using the Code
+* Go to each folder, run **NN_policy.py** to start the safe imitation learning process. The computation results are stored in the folder **data**. Run **result_analysis.m** to visualize the results.
