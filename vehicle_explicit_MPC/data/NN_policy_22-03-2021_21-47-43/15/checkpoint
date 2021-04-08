@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/heyin/Dropbox/PhD projects/Neural Network analysis and synthesis/IEEE L-CSS/vehicle explicit MPC min invQ/data/NN_policy_22-03-2021_21-47-43/15/model.ckpt"
+all_model_checkpoint_paths: "/Users/heyin/Dropbox/PhD projects/Neural Network analysis and synthesis/IEEE L-CSS/vehicle explicit MPC min invQ/data/NN_policy_22-03-2021_21-47-43/15/model.ckpt"
