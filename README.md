@@ -25,5 +25,5 @@ To plot the computed ROA, two more packages are required:
 * To visualize the results for the inverted pendulum example, run **result_analysis.m**.
 For the GTM and vehicle lateral control examples, run **plot_generation.m**.
 
-## ROAs of the Learned NN coontrollers and explicit MPC controller for the vehicle lateral control example 
+## ROAs of the Learned NN Controllers and Explicit MPC Controller for the Vehicle Lateral Control Example 
 ![vehicle](vehicle_explicit_MPC/veh_ROA.jpg)
